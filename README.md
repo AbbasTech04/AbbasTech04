@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Abbas! 👋
 
-<!--
-**AbbasTech04/AbbasTech04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student with a passion for software development and robotics. 
+I love building things that connect code with the physical world.
 
-Here are some ideas to get you started:
+### Tech Stack & Skills
+- **Programming Languages:** Java, C++, Python
+- **Electronics & Hardware:** Arduino ecosystems, sensors integration, and motor actuation modules.
+- **Core Concepts:** Object-Oriented Programming (OOP) and MVC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+- **4WD Smart Car:** An autonomous and Bluetooth-controlled robot car. -  **[4WD Smart Car](https://github.com/AbbasTech04/4WD-Arduino-Smart-Car-with-Bluetooth-and-Ultrasonic-Sensors):** An autonomous and Bluetooth-controlled robot car.
+- **University Management System (UMS):** A comprehensive administrative system built with Java.
+
+🤝 Welcome to my profile! Feel free to explore my repositories or reach out for collaboration.
